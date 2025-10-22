@@ -3,7 +3,7 @@
 
 <br/>
 
-Here is an overview of the demonstrative scripts for the different parts of the SAMPO-DFI pipeline. Guidance and further documentation is available inside the scripts themselves. Feel free to combine/modify the different parts into their own merged pipelines as you like. This repository includes or references external scripts that retain their original licenses. Lastly, I kindly ask you to cite my publication associated with the release of this code if you use this repository or the findings of the study for research: [LINK COMING]
+Here is an overview of the demonstrative scripts for the different parts of the SAMPO-DFI pipeline. Guidance and further documentation is available inside the scripts themselves. Feel free to combine/modify the different parts into their own merged pipelines as you like. This repository includes or references external scripts that retain their original licenses. Lastly, please cite my publication if you use this repository or the findings presented in it: [LINK COMING]
 
 <br/>
 
