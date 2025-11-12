@@ -29,7 +29,7 @@ OUTPUT:
 
 Date: 14.8.2025
 Author: Werneri A. Lindberg
-Acknowledgment: The code were written with assistance from GitHub Copilot.
+Acknowledgment: The code was written with assistance from GitHub Copilot.
 
 """
 
@@ -504,3 +504,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
