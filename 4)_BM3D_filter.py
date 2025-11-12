@@ -32,7 +32,6 @@ import importlib.util
 #   - the custom BM3D profile .py (optional) created by custom_profile_optimizer.py
 #   - The image to denoise (TIFF format, grayscale)
 # > Results are saved in the same folder as the input images.
-# > Log file is saved with all parameters.
 # ==================================================================================
 
 """
@@ -330,4 +329,5 @@ def main():
     denoiser.bm3d_denoise_optimized()
 
 if __name__ == "__main__":
+
     main()
