@@ -1076,7 +1076,7 @@ class GridRemoval:
         """
         Evaluate the quality of grid removal using Mean Squared Error (MSE) analysis.
         
-        Measures energy reduction at grid frequencies in the Fourier space.
+        Measures FFT magnitude reduction at grid frequencies in the Fourier space.
         Higher quality score indicates better grid suppression.
         
         Args:
@@ -1112,7 +1112,6 @@ class GridRemoval:
             
             print(f"Using statistically-optimized analysis radius: {adaptive_radius} pixels")
             
-            # MSE-based grid suppression analysis with adaptive windowing
             grid_suppression_scores = []
             
             for peak_y, peak_x in valid_peaks:
